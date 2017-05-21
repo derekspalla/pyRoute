@@ -8,3 +8,4 @@ The application needs to do the following:
   3. Record information about time on route and money made on each leg of the route - i.e. how much money was made in each      subdivision/road.
 
 It would be great if I could connect it to Waze for getting to each neighborhood/subdivision.
+https://www.waze.com/about/dev
